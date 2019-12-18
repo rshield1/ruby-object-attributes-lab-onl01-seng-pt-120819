@@ -22,4 +22,4 @@ class Dog
 
 end
 
-Toby.new
+Dog.new("toby")
