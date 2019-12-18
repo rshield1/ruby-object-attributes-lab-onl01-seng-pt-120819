@@ -21,5 +21,3 @@ class Dog
 
 
 end
-
-Dog.new("toby")
